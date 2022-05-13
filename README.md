@@ -2,7 +2,7 @@
 
 ## 👀 What you can see here ??
 
-Basicly you'll see my history timeline from all modules learned into Udemy course.
+Basically you'll see my history timeline from all modules learned into Udemy course.
 
 ## Technologies
 

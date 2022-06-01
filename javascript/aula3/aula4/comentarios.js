@@ -7,7 +7,7 @@ console.log('linha 1');
 Um bloco de código
 linha de comentario.
 */
-console.log('linha 2');
+//console.log('linha 2');
 console.log('linha 3');
 console.log('linha 4');
 // vai ser ignorado pela indine 

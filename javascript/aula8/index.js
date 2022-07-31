@@ -1,8 +1,8 @@
-const nome = "Luiz Otavio";
-const sobrenome = "Miranda";
-const idade = 30;
-const peso = 84;
-const alturaEmCm = 1.8;
+const nome = "Flavio";
+const sobrenome = "Gonçalves";
+const idade = 25;
+const peso = 60;
+const alturaEmCm = 1.7;
 let indiceMassaCorporal; // peso / (altura * altura)
 let anoNascimento;
 

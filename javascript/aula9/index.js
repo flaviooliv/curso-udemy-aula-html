@@ -1,7 +1,7 @@
 // string, number, undefined, null, boolean, symbol
-const nome = "luiz"; // string
-const nome1 = "luiz"; // string
-const nome2 = "luiz"; // string
+const nome = "flavio"; // string
+const nome1 = "flavio"; // string
+const nome2 = "flavio"; // string
 const num1 = 10; // number
 const num2 = 10.52; // number
 let nomeAluno; // undefined = não aponta pra lugar nenhum na memória

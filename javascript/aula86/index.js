@@ -1,0 +1,1 @@
+function rand (min, max)
